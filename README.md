@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ```shell
 $ whoami
 > Hi there 👋  I am hiro-lapis!
@@ -11,6 +8,30 @@ $ whoami
 > I like to write code, bouldering, and coffee.
 > My motto is [Only action changes life.]
 ```
+<p align="left">
+  <!-- profile views   -->
+  <a href="https://github.com/hiro-lapis/">
+    <img src="https://komarev.com/ghpvc/?username=hiro-lapis" alt="hiro-lapis" />
+  </a>
+  <!-- twitter -->
+  <a href="http://twitter.com/etBeEP5e7dwmw7P">
+    <img height="20" src="https://img.shields.io/twitter/follow/etBeEP5e7dwmw7P?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <!-- Qiita -->
+  <a href="https://qiita.com/hiro5963">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Diwamoto/contributions.svg" />
+  </a>
+</p>
+
+<!-- stats表示リポジトリをhrefに設定 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- repository stats -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hiro-lapis&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- using lang stats -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-lapis" />
+</a>
 
 
 <!--
