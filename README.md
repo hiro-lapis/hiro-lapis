@@ -33,6 +33,8 @@ $ whoami
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-lapis" />
 </a>
 
+<!-- if want to update profile, use ↓  -->
+<!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 <!--
 **hiro-lapis/hiro-lapis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
