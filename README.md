@@ -2,7 +2,7 @@
 $ whoami
 > Hi there 👋  I am hiro-lapis!
 > I am a Software Developer.
-> I can Use PHP and JS.
+> I can Use Golang PHP and TS.
 > I use FW Laravel and vue.js.
 > I am currently learning Test code and Golang.
 > I like to write code, bouldering, and coffee.
