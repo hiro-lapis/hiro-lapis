@@ -4,9 +4,9 @@ $ whoami
 > I am a Software Developer.
 > I can Use Golang PHP and TS.
 > I use FW Laravel and vue.js.
-> I am currently learning Test code and Golang.
-> I like to write code, bouldering, and coffee.
-> My motto is [Only action changes life.]
+> I am currently learning toefl.
+> I like to develop software, bouldering, and coffee.
+> My motto is [Only action change the life.]
 ```
 <p align="left">
   <!-- profile views   -->
