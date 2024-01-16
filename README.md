@@ -51,16 +51,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/hiro-lapis/hiro-lapis/blob/output/github-snake.svg)
-
-![Snake animation](https://github.com/hiro-lapis/hiro-lapis/dist/github-snake.svg)
+<!-- ![Snake animation](https://github.com/hiro-lapis/hiro-lapis/blob/output/github-snake.svg)  !-->
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <!-- if in night theme, display dark svg, vice and versa !-->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hiro-lapis/hiro-lapis/output/github-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hiro-lapis/hiro-lapis/output/github-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/hiro-lapis/hiro-lapis/output/github-snake-dark.svg"
+  />
 </picture>
