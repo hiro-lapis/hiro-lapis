@@ -51,4 +51,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/hiro-lapis/hiro-lapis/dist/github-snake.svg)
+![Snake animation](https://github.com/hiro-lapis/hiro-lapis/blob/output/github-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
