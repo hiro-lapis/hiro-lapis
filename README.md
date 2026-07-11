@@ -1,12 +1,11 @@
 ```shell
 $ whoami
 > Hi there 👋  I am hiro-lapis!
-> I am a Software Developer.
-> I can Use Golang PHP and TS.
-> I use FW Laravel and vue.js.
-> I am currently learning toefl.
+> I am a Fullstack software engineer.
+> I can use Rust, Golang, Python, PHP and TS.
+> My favorite cloud platform is GCP.
 > I like to develop software, bouldering, and coffee.
-> My motto is [Only action change the life.]
+> My motto is [Only action changes the life.]
 ```
 <p align="left">
   <!-- profile views   -->
