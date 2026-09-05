@@ -1,7 +1,12 @@
 ```shell
 $ whoami
 > Hi there 👋  I am hiro-lapis!
-> I am a Fullstack software engineer.
+> I am a full-stack software engineer.
+In other words, I'm one of those who love details.
+We love details. We revel in details. We swim upstream in rivers of details.
+We slog through marshes and swamplands of details. And we love it. We
+live for it. We work joyously hard at it. We are . . . detail managers.
+
 > I can use Rust, Golang, Python, PHP and TS.
 > My favorite cloud platform is GCP.
 > I like to develop software, bouldering, and coffee.
