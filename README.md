@@ -2,7 +2,7 @@
 $ whoami
 > Hi there 👋  I am hiro-lapis!
 > I am a full-stack software engineer.
-In other words, I'm one of those who love details.
+In other words, I am one of those who love details.
 We love details. We revel in details. We swim upstream in rivers of details.
 We slog through marshes and swamplands of details. And we love it. We
 live for it. We work joyously hard at it. We are . . . detail managers.
